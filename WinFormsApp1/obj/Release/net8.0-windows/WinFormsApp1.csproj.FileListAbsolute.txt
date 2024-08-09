@@ -1,0 +1,108 @@
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.exe
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.dll
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.pdb
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\Discord.Net.Commands.dll
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\Discord.Net.Core.dll
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\Discord.Net.Interactions.dll
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\Discord.Net.Rest.dll
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\Discord.Net.Webhook.dll
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\Discord.Net.WebSocket.dll
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\NAudio.dll
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\NAudio.Asio.dll
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\NAudio.Core.dll
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\NAudio.Midi.dll
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\NAudio.WinForms.dll
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\NAudio.WinMM.dll
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\System.Interactive.Async.dll
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\System.Linq.Async.dll
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\System.Reactive.dll
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinForms.E4050A35.Up2Date
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.dll
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.pdb
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\jacob\Desktop\repos\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.exe
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.dll
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.pdb
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\bin\Release\net8.0-windows\Discord.Net.Commands.dll
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\bin\Release\net8.0-windows\Discord.Net.Core.dll
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\bin\Release\net8.0-windows\Discord.Net.Interactions.dll
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\bin\Release\net8.0-windows\Discord.Net.Rest.dll
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\bin\Release\net8.0-windows\Discord.Net.Webhook.dll
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\bin\Release\net8.0-windows\Discord.Net.WebSocket.dll
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\bin\Release\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\bin\Release\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\bin\Release\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\bin\Release\net8.0-windows\NAudio.dll
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\bin\Release\net8.0-windows\NAudio.Asio.dll
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\bin\Release\net8.0-windows\NAudio.Core.dll
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\bin\Release\net8.0-windows\NAudio.Midi.dll
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\bin\Release\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\bin\Release\net8.0-windows\NAudio.WinForms.dll
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\bin\Release\net8.0-windows\NAudio.WinMM.dll
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\bin\Release\net8.0-windows\System.Interactive.Async.dll
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\bin\Release\net8.0-windows\System.Linq.Async.dll
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\bin\Release\net8.0-windows\System.Reactive.dll
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\obj\Release\net8.0-windows\WinForms.E4050A35.Up2Date
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.dll
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\obj\Release\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.pdb
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\jacob\Desktop\dISCORDBOT BACKUP\WinFormsApp1\obj\Release\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\obj\Release\net8.0-windows\WinForms.E4050A35.Up2Date
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\bin\Release\net8.0-windows\Discord.Net.Commands.dll
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\bin\Release\net8.0-windows\Discord.Net.Core.dll
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\bin\Release\net8.0-windows\Discord.Net.Interactions.dll
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\bin\Release\net8.0-windows\Discord.Net.Rest.dll
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\bin\Release\net8.0-windows\Discord.Net.Webhook.dll
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\bin\Release\net8.0-windows\Discord.Net.WebSocket.dll
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\bin\Release\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\bin\Release\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\bin\Release\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\bin\Release\net8.0-windows\System.Interactive.Async.dll
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\bin\Release\net8.0-windows\System.Linq.Async.dll
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\bin\Release\net8.0-windows\System.Reactive.dll
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\bin\Release\net8.0-windows\Music Bot.exe
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\bin\Release\net8.0-windows\Music Bot.dll.config
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\bin\Release\net8.0-windows\Music Bot.deps.json
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\bin\Release\net8.0-windows\Music Bot.runtimeconfig.json
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\bin\Release\net8.0-windows\Music Bot.dll
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\bin\Release\net8.0-windows\Music Bot.pdb
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\obj\Release\net8.0-windows\Music Bot.dll
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\obj\Release\net8.0-windows\refint\Music Bot.dll
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\obj\Release\net8.0-windows\Music Bot.pdb
+C:\Users\jacob\Desktop\dISCORDBOTBACKUP\WinFormsApp1\obj\Release\net8.0-windows\ref\Music Bot.dll
