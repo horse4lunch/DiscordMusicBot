@@ -85,6 +85,7 @@ This method allows the two components to work together seamlessly, with the C# a
 - Install .NET Core: Ensure that .NET Core and Python are installed on your system.
 - Edit `config.txt` to include the Discord bot token, download directory path, and `Python.exe` path.
 - Download [FFMPEG](https://ffmpeg.org/) and place it at WinFormsApp1\bin\Release\net8.0-windows\AudioModule
+- Run these two commands in a terminal "pip install PyNaCl" "pip install discord.py"
 
 ### Usage
 1. **Run the C# Application**: Start the WinForms application to interact with the bot.
